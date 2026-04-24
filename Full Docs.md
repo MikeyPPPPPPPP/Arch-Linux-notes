@@ -213,35 +213,10 @@ lists wifi networks nearby:
 ```
 IN-USE  BSSID              SSID                        MODE   CHAN  RATE         SIGNAL  BARS  SECURITY  
 
-        10:DA:43:38:42:74  ngHub_319466NJ04F0A         Infra  1     130 Mbit/s   90      
-
-▂▄▆█  WPA2      
-
-        70:3A:CB:FE:0B:B9  proveitallnight             Infra  11    130 Mbit/s   84      
-
-▂▄▆█  WPA2      
-
+ 
         F4:CF:A2:BD:D3:AD  PNR08IF3100E24E09B          Infra  1     135 Mbit/s   72      
 
-▂▄▆_  --        
 
-        70:3A:CB:FE:0B:B5  proveitallnight             Infra  149   1170 Mbit/s  72      
-
-▂▄▆_  WPA2      
-
-        42:98:B5:E2:25:A3  Marcellino-IoT              Infra  8     1170 Mbit/s  60      
-
-▂▄▆_  WPA2      
-
-*       D0:6D:C9:24:C5:C6  Frontier0394                Infra  1     405 Mbit/s   59      
-
-▂▄▆_  WPA2      
-
-        34:98:B5:E2:28:6B  --                          Infra  8     1170 Mbit/s  55      
-
-▂▄__  WPA2      
-
-        70:3A:CB:FD:F3:30  proveitallnight             Infra  6     130 Mbit/s   54
 ```
 
 Not over SSH.
